@@ -1,0 +1,19 @@
+{
+  "name": "response-express",
+  "version": "1.0.0",
+  "description": "Wrapper for ExpressJS response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayant840084/response-express.git"
+  },
+  "author": "Jayant Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayant840084/response-express/issues"
+  },
+  "homepage": "https://github.com/jayant840084/response-express#readme"
+}
